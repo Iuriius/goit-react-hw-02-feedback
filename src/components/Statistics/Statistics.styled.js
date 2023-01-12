@@ -8,7 +8,7 @@ export const StatisticsList = styled.ul`
 `;
 
 export const StatisticsItem = styled.li`
-  width: 25vw;
+  width: 50vw;
   font-size: larger;
   color: darkorchid;
   text-shadow: 1px 1px 0px lightgrey;
